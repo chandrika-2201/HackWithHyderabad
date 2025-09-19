@@ -37,7 +37,7 @@ Users can **log in**, adjust **sliders and inputs**, **save scenarios**, and **d
 ---
 
 ## 📸 Application Snapshots
-- ![CFO-Helper-1](Application-snapshots/1.png)
+- ![CFO-Helper-1](Application-Snapshots/1.png)
 
 
 
