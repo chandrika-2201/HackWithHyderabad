@@ -53,7 +53,6 @@ Users can **log in**, adjust **sliders and inputs**, **save scenarios**, and **d
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone and install
-```bash
 git clone https://github.com/your-username/cfo-helper.git
 cd cfo-helper
 npm install
@@ -67,13 +66,11 @@ In **Project Settings → API**, copy the values for:
 
 ### 3️⃣ Environment variables
 Create a file named **`.env.local`** in the project root and add:
-```env
+
 NEXT_PUBLIC_SUPABASE_URL="https://YOUR-PROJECT.supabase.co"
 NEXT_PUBLIC_SUPABASE_ANON_KEY="YOUR-ANON-KEY"
 ## 5️⃣ Run Locally
 
 Install dependencies and start the development server:
-
-```bash
 npm install
 npm run dev
